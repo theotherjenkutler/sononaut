@@ -1,0 +1,11 @@
+Mars
+Version: 1.0
+By Stefana Fratila & Jen Kutler
+
+The following abstraction was used in this patch: vfreeverb by Katja Vetter (katjaas.nl)
+
+Image Source: NASA/JPL-Caltech/USGS
+
+Image Description: “About 1000 Viking Orbiter red- and violet-filter images have been processed to provide global colour coverage of Mars at a scale of 1 km/pixel. Note heavy impact cratering of the highlands (bottom and right portions of this mosaic) and the younger, less heavily cratered terrains elsewhere.”
+
+https://mars.nasa.gov/resources/7808/global-color-views-of-mars/
