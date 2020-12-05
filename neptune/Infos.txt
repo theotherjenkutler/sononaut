@@ -1,0 +1,9 @@
+Neptune
+Version: 1.0
+By Stefana Fratila & Jen Kutler
+
+The following abstractions were used in this patch: vfreeverb by Katja Vetter (katjaas.nl), wind by Andy Farnell (moz.ac.at/sem/lehre/lib/pd-sounddesign/index.html)
+
+Image Source: NASA/JPL
+
+Image Description: “This picture of Neptune was produced from the last whole planet images taken through the green and orange filters on the Voyager 2 narrow angle camera. The images were taken at a range of 4.4 million miles from the planet, 4 days and 20 hours before closest approach. The picture shows the Great Dark Spot and its companion bright smudge; on the west limb the fast moving bright feature called Scooter and the little dark spot is visible. These clouds were seen to persist for as long as Voyager's cameras could resolve them. North of these, a bright cloud band similar to the south polar streak may be seen.”
