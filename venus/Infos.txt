@@ -1,0 +1,11 @@
+Venus
+Version: 1.0
+By Stefana Fratila & Jen Kutler
+
+The following abstractions were used in this patch: vfreeverb by Katja Vetter (katjaas.nl), dkfreqshift Released under gpl v3.0 by Derek Kwan (https://github.com/derekxkwan/pdkvabs), fx.streamstretch by MEGrimm (https://github.com/megrimm/pd-fresh)
+
+Image Source: NASA/Jet Propulsion Laboratory-Caltech
+
+Image Description: “This global view of the surface of Venus is centred at 180 degrees east longitude. Magellan synthetic aperture radar mosaics from the first cycle of Magellan mapping are mapped onto a computer-simulated globe to create this image. Data gaps are filled with Pioneer Venus Orbiter data, or a constant mid-range value. Simulated colour is used to enhance small-scale structure. The simulated hues are based on colour images recorded by the Soviet Venera 13 and 14 spacecraft.”
+
+https://solarsystem.nasa.gov/resources/688/computer-simulated-global-view-of-venus/?category=planets_venus
