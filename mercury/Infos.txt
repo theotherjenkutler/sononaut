@@ -1,0 +1,9 @@
+Mercury
+Version: 1.0
+By Stefana Fratila & Jen Kutler
+
+Image Source: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington
+
+Image Description: “This colorful view of Mercury was produced by using images from the color base map imaging campaign during MESSENGER's primary mission.”
+
+https://solarsystem.nasa.gov/resources/771/colors-of-the-innermost-planet-view-1/?category=planets_mercury
