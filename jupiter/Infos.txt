@@ -1,0 +1,11 @@
+Jupiter
+Version: 1.0
+By Stefana Fratila & Jen Kutler
+
+The following abstraction was used in this patch: vfreeverb by Katja Vetter (katjaas.nl)
+
+Image Source: NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill
+
+Image Description: “This stunning image of Jupiter's stormy northern hemisphere was captured by NASA's Juno spacecraft as it performed a close pass of the gas giant planet. Some bright-white clouds can be seen popping up to high altitudes on the right side of Jupiter's disk.”
+
+https://www.nasa.gov/image-feature/tumultuous-clouds-of-jupiter
