@@ -1,0 +1,11 @@
+Uranus
+Version: 1.0
+By Stefana Fratila & Jen Kutler
+
+The following abstractions were used in this patch: vfreeverb by Katja Vetter (katjaas.nl), abs_stereochorus1 released under gpl and cc by sa by Martin Brinkmann (http://www.martin-brinkmann.de/), dkvfbcomb Released under gpl v3.0 by Derek Kwan (https://github.com/derekxkwan/pdkvabs), fx.streamstretch by MEGrimm (https://github.com/megrimm/pd-fresh)
+
+Image Source: NASA/JPL
+
+Image Description: “This is an image of the planet Uranus taken by the spacecraft Voyager 2 on January 14th 1986 from a distance of approximately 7.8 milllion miles ( 12.7 million km ).”
+
+https://solarsystem.nasa.gov/resources/599/uranus-as-seen-by-nasas-voyager-2/?category=planets_uranus
