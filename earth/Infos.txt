@@ -1,0 +1,11 @@
+Earth
+Version: 1.0
+By Stefana Fratila & Jen Kutler
+
+The following abstractions were used in this patch: vfreeverb by Katja Vetter (katjaas.nl), pp.doppler and pp.twisteddelays by Philipp Schmalfuss, GNU Lesser General Public License (github.com/solipd/AudioLab)
+
+Image Source: Reto Stöckli, Nazmi El Saleous, and Marit Jentoft-Nilsen, NASA GSFC
+
+Image Description: “This true-color image shows North and South America as they would appear from space 35,000 km (22,000 miles) above the Earth. The image is a combination of data from two satellites. The Moderate Resolution Imaging Spectroradiometer (MODIS) instrument aboard NASA’s Terra satellite collected the land surface data over 16 days, while NOAA’s Geostationary Operational Environmental Satellite (GOES) produced a snapshot of the Earth’s clouds.”
+
+https://earthobservatory.nasa.gov/images/885/earth-from-space
