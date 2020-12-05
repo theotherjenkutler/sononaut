@@ -1,0 +1,11 @@
+Saturn
+Version: 1.0
+By Stefana Fratila & Jen Kutler
+
+The following abstractions were used in this patch: vfreeverb by Katja Vetter (katjaas.nl), abs_stereochorus1 released under gpl and cc by sa by Martin Brinkmann (http://www.martin-brinkmann.de/), dkvfbcomb Released under gpl v3.0 by Derek Kwan (https://github.com/derekxkwan/pdkvabs)
+
+Image Source: NASA/JPL-Caltech/Space Science Institute
+
+Image Description: “This view shows Saturn's northern hemisphere in 2016, as that part of the planet nears its northern hemisphere summer solstice in May 2017. Saturn's year is nearly 30 Earth years long, and during its long time there, Cassini has observed winter and spring in the north, and summer and fall in the south.”
+
+https://solarsystem.nasa.gov/resources/210/saturn-approaching-northern-summer/?category=planets_saturn
