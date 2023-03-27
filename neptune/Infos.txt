@@ -1,9 +1,66 @@
-Neptune
-Version: 1.0
-By Stefana Fratila & Jen Kutler
+NEPTUNE
 
-The following abstractions were used in this patch: vfreeverb by Katja Vetter (katjaas.nl), wind by Andy Farnell (moz.ac.at/sem/lehre/lib/pd-sounddesign/index.html)
 
-Image Source: NASA/JPL
+STORY
 
-Image Description: “This picture of Neptune was produced from the last whole planet images taken through the green and orange filters on the Voyager 2 narrow angle camera. The images were taken at a range of 4.4 million miles from the planet, 4 days and 20 hours before closest approach. The picture shows the Great Dark Spot and its companion bright smudge; on the west limb the fast moving bright feature called Scooter and the little dark spot is visible. These clouds were seen to persist for as long as Voyager's cameras could resolve them. North of these, a bright cloud band similar to the south polar streak may be seen.”
+This is the windiest world. It’s darker, denser, and colder than I expect it to be. I’m whipped around by supersonic winds as I go further down. I get a glimpse of the ocean underneath the clouds of frozen methane. The ocean below is too hot to swim in. I haven’t seen any ships all day.  After a while, the wind becomes indistinguishable from silence.
+
+(Stefana Fratila)
+
+
+NOTES
+
+Neptune is the windiest planet in the solar system. Cold winds of frozen methane whip at supersonic speeds (more than 2,000 kms/hr) across the dark Ice Giant. Similar to Uranus, its atmosphere is mostly made up of hydrogen (as well as helium and methane). Its distinct blue colour means some other unknown component might also be a part of its atmosphere.
+
+Neptune is the densest of the Gas Giants. Most of its mass is made up of a hot fluid (an ocean) that is contained beneath frozen cloud coverage by incredibly high levels of pressure.
+
+Neptune is the only planet in the solar system that is never visible to the naked eye– perhaps this is also why we know the least about it.
+
+Calculations (by Dr. Conor Nixon) used in the Neptune plug-in design:
+
+Surface pressure ‘P’ (bar): 1.000
+Surface temperature ’T’ (K): 72
+Gas components: Hydrogen (80%), Helium (18%), Methane (2%)
+Mean Molecular Weight (g): 2.64
+Atmospheric Density ‘rho’ (kg/m3): 0.44 
+Mean Adiabatic Index (gamma): 1.60
+Speed Sound (m/s): 603
+Speed Sound Relative to Earth = 1: 173.92%
+Pitch shift of middle ‘C’ (Hz): 454 
+
+(Stefana Fratila)
+
+Source and further information: https://solarsystem.nasa.gov/planets/neptune/ 
+
+
+METHODOLOGY
+
+How might embodied subjects perceive sound waves as they travel through the different atmospheres of our solar system? How would the vibrations of Venus feel to a fleshy form? If we were to put our ears to the ground, or lie down our bodies, would we not feel the Mercuryquakes below the surface? And isn’t feeling sound the epitome of experiencing it? These questions constituted my conversations with scientists and researchers at NASA between 2018 and 2019. 
+
+As I began my research, it was immediately apparent that every planet (except for Mercury) is incredibly windy. My mind was racing, imagining the planets as windy tunnels and reverberant rooms: if I could turn the wind off, what would my voice, or my songs, sound like then? To find out, I had to imagine the interplanetary weather patterns and geographical features as music, as if the thunder clouds and volcanoes were musical instruments in and of themselves. Every planet has its own frequency; if we decide that Earth is middle C (261.63 Hertz), each other planet must also have its own pitch based on its own surface pressure, surface temperature, gas components and atmospheric density.
+
+I relied extensively on calculations made by Dr. Conor Nixon (NASA) while conceptualizing the Sononaut plug-ins. I took some necessary artistic liberties through imaginative and conceptual deliberations made within the coding parameters, or ‘character’ of each plug-in. Complete ‘accuracy’ is impossible because of an inherent lack of knowability so, in this sense, artistic interpretation is used to bridge the gap between data and my own imagination. I also assign superhuman qualities to users, meaning that one of my core assumptions is that we can somehow survive these uninhabitable atmospheres. The Sononaut plug-ins allow artists, scientists, researchers, musicians, and composers alike to control and modify effects that simulate what we would hear if we were listening through extraterrestrial atmospheric conditions— bringing us a little closer to ‘stepping into’ these other worlds.
+
+(Stefana Fratila)
+
+
+CREDITS
+
+Author: Stefana Fratila & Jen Kutler 
+Using abstractions by Katja Vetter, Philipp Schmalfuss, Serge Poltavsky and Camomile by Pierre Guillot.
+
+Concept: Stefana Fratila (http://stefanafratila.com)
+Developer: Jen Kutler (http://jenkutler.com) 
+Windows QA and Windows Installer: Tim Light
+Calculations: Dr. Conor A. Nixon (NASA)
+
+– Weather Loops –
+Written and Produced by Stefana Fratila: Stefana Fratila
+Mixing Engineer: Lisa Conway 
+Mastering Engineer: Sage Kim at Lacquer Channel Mastering
+
+Special thanks to everyone at NASA, especially: Bruce Banerdt, David Crisp, Lori S. Glaze, Daniel E. Goods, David C. Gruel, Scott D. Guzewich, Joseph R. Harris, Natasha M. Johnson, Conor A. Nixon, Keith S. Noll, Haley P. Reed, Amy A. Simon, Wade E. Sisler, Linda J. Spilker, Tom Spilker, Lina Tran, and Geronimo Luis Villanueva.
+
+Thank you as well to Leif Bloomquist, Eric Choi, Derek Coulombe, Nicolas Cowan, Eric Dahlstrom, Jonathan Scherk, Samuel Dzierzawa, Thomas Weideman, Kerry Maguire, Ash Luk, Lida Pawliuk, Andi G. Petculescu, Sands Fish, Bettina Forget, Bryan Gaensler, Michael Reid, Matt Russo, Andrew Santaguida, and to everyone at Centro Mexicano para la Música y las Artes Sonoras (CMMAS)– especially Francisco Colasanto, Silvana Casal, Silvia de la Cueva Díaz, Daniel López, Tonalli Rufino Nakamura, and Rodrigo Sigal.
+
+Created with the generous support of the Canada Council for the Arts.
