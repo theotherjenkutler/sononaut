@@ -1,11 +1,67 @@
-Mars
-Version: 1.0
-By Stefana Fratila & Jen Kutler
+MARS
 
-The following abstraction was used in this patch: vfreeverb by Katja Vetter (katjaas.nl)
 
-Image Source: NASA/JPL-Caltech/USGS
+STORY
 
-Image Description: “About 1000 Viking Orbiter red- and violet-filter images have been processed to provide global colour coverage of Mars at a scale of 1 km/pixel. Note heavy impact cratering of the highlands (bottom and right portions of this mosaic) and the younger, less heavily cratered terrains elsewhere.”
+The journey from Earth to Mars used to take months and months (my mother told me), but I make it there by noon Earth-time. As I draw closer, I see dust storms covering much of the planet. I land in the red desert. There are a couple more ships nearby. We wave politely, like we’re in a car park. It’s windy, and I walk for a long time through the dust, eventually settling down once I reach an especially large canyon. Now that I’m alone, I listen to the sound of wind picking up the oxidized dirt. The wind feels weaker than on Earth because of the thin atmosphere, but I know the speed of the wind is actually much faster. The ground rises slightly around me as dust devils move by. The dust storms zap as pieces of dust rub against the surface. I occasionally hear rockfalls in the distance. It’s getting very cold, so I head back.
 
-https://mars.nasa.gov/resources/7808/global-color-views-of-mars/
+(contined in Jupiter)
+
+
+NOTES
+
+Lower frequencies might travel best through the Martian atmosphere. There is speculation that low frequencies might also become more pronounced when moving further away from a sound emitter, creating the sensation that a sound (i.e., a voice) is ‘deepening’ when moving further away from it. It’s windy on Mars so you might hear the sound of the wind picking up dirt. Because of its thin atmosphere, wind would ‘feel’ weaker than on Earth even though the wind would actually be at higher speeds than on Earth. As dust devils move by, you might hear the dust storms zap as the dust rubs against the surface. Rockfalls on Mars might sound like that of an avalanche on Earth.
+
+Mars is often referred to as the ‘Red’ planet– the description comes from its red appearance, which is because of iron materials rusting within its dirt. Mars is smaller than Earth (about half its size) and because of its greater distance from the sun, it gets a lot colder than it does on Earth (-153 degrees Celsius). Some days it’s closer to 20 degrees Celsius. The Martian atmosphere is 100 times thinner than Earth’s and mostly made up of carbon dioxide (as well as nitrogen, argon, oxygen, and carbon monoxide). Liquid water exists on the surface– but never for long because the atmosphere is so thin. It even snows on Mars, but it would appear more like dry ice and fall like flour.
+
+There are times of the year when the entire planet is blanketed by dust storms (the biggest dust storms in the entire solar system). In terms of topography, the planet is covered in volcanoes, impact craters and valleys. Mars is home to the largest volcano in the whole solar system, OIympus Mons. There is abundant geologic evidence that liquid water once flowed on the Martian surface: river channels, valley networks of branching streams and tributaries, river deltas, layered sediments, ancient shorelines (Planetary Climates, Ingersoll).
+
+Calculations (by Dr. Conor Nixon) used in the Mars plug-in design:
+
+Surface pressure ‘P’ (bar): 0.006
+Surface temperature ’T’ (K): 210
+Gas components: Carbon dioxide (95.32%), Nitrogen (2.70%), Argon (1.60%), Oxygen (0.13%), Carbon monoxide (0.08%)
+Mean Molecular Weight (g): 43.40
+Atmospheric Density ‘rho’ (kg/m3): 0.01
+Mean Adiabatic Index (gamma): 1.31
+Speed Sound (m/s): 230
+Speed Sound Relative to Earth = 1: 66.17%
+Pitch shift of middle ‘C’ (Hz): 173
+
+(Stefana Fratila)
+
+Source and further information: https://solarsystem.nasa.gov/planets/mars/ 
+
+
+METHODOLOGY
+
+How might embodied subjects perceive sound waves as they travel through the different atmospheres of our solar system? How would the vibrations of Venus feel to a fleshy form? If we were to put our ears to the ground, or lie down our bodies, would we not feel the Mercuryquakes below the surface? And isn’t feeling sound the epitome of experiencing it? These questions constituted my conversations with scientists and researchers at NASA between 2018 and 2019. 
+
+As I began my research, it was immediately apparent that every planet (except for Mercury) is incredibly windy. My mind was racing, imagining the planets as windy tunnels and reverberant rooms: if I could turn the wind off, what would my voice, or my songs, sound like then? To find out, I had to imagine the interplanetary weather patterns and geographical features as music, as if the thunder clouds and volcanoes were musical instruments in and of themselves. Every planet has its own frequency; if we decide that Earth is middle C (261.63 Hertz), each other planet must also have its own pitch based on its own surface pressure, surface temperature, gas components and atmospheric density.
+
+I relied extensively on calculations made by Dr. Conor Nixon (NASA) while conceptualizing the Sononaut plug-ins. I took some necessary artistic liberties through imaginative and conceptual deliberations made within the coding parameters, or ‘character’ of each plug-in. Complete ‘accuracy’ is impossible because of an inherent lack of knowability so, in this sense, artistic interpretation is used to bridge the gap between data and my own imagination. I also assign superhuman qualities to users, meaning that one of my core assumptions is that we can somehow survive these uninhabitable atmospheres. The Sononaut plug-ins allow artists, scientists, researchers, musicians, and composers alike to control and modify effects that simulate what we would hear if we were listening through extraterrestrial atmospheric conditions— bringing us a little closer to ‘stepping into’ these other worlds.
+
+(Stefana Fratila)
+
+
+CREDITS
+
+Author: Stefana Fratila & Jen Kutler 
+Using abstractions by Katja Vetter, Philipp Schmalfuss, Serge Poltavsky and Camomile by Pierre Guillot.
+
+Concept: Stefana Fratila (http://stefanafratila.com)
+Developer: Jen Kutler (http://jenkutler.com) 
+Windows QA and Windows Installer: Tim Light
+Calculations: Dr. Conor A. Nixon (NASA)
+
+– Weather Loops –
+Written and Produced by Stefana Fratila: Stefana Fratila
+Mixing Engineer: Lisa Conway 
+Mastering Engineer: Sage Kim at Lacquer Channel Mastering
+
+
+Special thanks to everyone at NASA, especially: Bruce Banerdt, David Crisp, Lori S. Glaze, Daniel E. Goods, David C. Gruel, Scott D. Guzewich, Joseph R. Harris, Natasha M. Johnson, Conor A. Nixon, Keith S. Noll, Haley P. Reed, Amy A. Simon, Wade E. Sisler, Linda J. Spilker, Tom Spilker, Lina Tran, and Geronimo Luis Villanueva.
+
+Thank you as well to Leif Bloomquist, Eric Choi, Derek Coulombe, Nicolas Cowan, Eric Dahlstrom, Jonathan Scherk, Samuel Dzierzawa, Thomas Weideman, Kerry Maguire, Ash Luk, Lida Pawliuk, Andi G. Petculescu, Sands Fish, Bettina Forget, Bryan Gaensler, Michael Reid, Matt Russo, Andrew Santaguida, and to everyone at Centro Mexicano para la Música y las Artes Sonoras (CMMAS)– especially Francisco Colasanto, Silvana Casal, Silvia de la Cueva Díaz, Daniel López, Tonalli Rufino Nakamura, and Rodrigo Sigal.
+
+Created with the generous support of the Canada Council for the Arts.
