@@ -1,9 +1,57 @@
-Mercury
-Version: 1.0
-By Stefana Fratila & Jen Kutler
+MERCURY
 
-Image Source: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington
 
-Image Description: “This colorful view of Mercury was produced by using images from the color base map imaging campaign during MESSENGER's primary mission.”
+STORY
 
-https://solarsystem.nasa.gov/resources/771/colors-of-the-innermost-planet-view-1/?category=planets_mercury
+I can see through a window from where I’m strapped in. Someone on the launch team tells me that my ship’s now on full internal power. It feels very quiet, until another voice interrupts– “You’re go for launch. Three minutes and twenty-five seconds and counting.” I have nothing to do but wait now. The engines turn on and the vibrations move through my body, and it’s so unbelievably loud. For a second, I panic about whether I packed my medication, but then of course I did, because it was someone’s entire job to think about those kinds of things. The launch is a blur of deep ringing. I circle around the Earth a couple of times before making my way towards Mercury.
+
+I reach an impact crater shaped by years of passing meteoroids. I walk slowly into it, bend down, and put my ear to the ground. I imagine another person is near me, also wearing a space suit like mine. I am talking to them, we are laughing and the sound of our laughter moves through our bodies into the solid ground, the consonants of our voices are lost and all I hear is a funny little rumble, like saying ah, ah, ah with closed lips instead of Ha, Ha, Ha. But even this, I am imagining. I imagine their mouth and their closed eyes, moving slowly like a rose in a silent house, after a ghost has just passed by. I touch the grey gardens around me, making shapes with my finger-tips along the crater rays. This is going to be a long week.
+
+(continued in Venus)
+
+
+NOTES
+
+‘Listening’ on Mercury would be a very muffled and disembodied experience for the listener because of its thin exosphere, meaning sound can only really travel through solids. Essentially, the source of the sound would have to be touching the ground, the vibrations would then flow through that source into the ground, and then make their way through the ground into the listener’s body. You might feel the sounds, more than hear them. In other words, putting your ear to the ground is one manner in which you might hear yourself, others around you, or the sound of the Mercuryquakes beneath you. Everything would sound rumbly and coated in deep timbres– since sound is being heard exclusively through solids instead of an atmosphere, like on Earth.
+
+Mercury is the smallest and fastest planet in our solar system. Although it is closest to the Sun, it is not the hottest. Instead of an atmosphere, Mercury has a thin ‘exosphere’ composed of oxygen, sodium, hydrogen, helium and potassium. This exosphere is essentially made up of atoms gathered from the surface by solar winds and striking meteoroids– and is too thin for sounds to travel through the way they do on Earth. Mercury is tectonically active, meaning it experiences earthquakes (or ‘Mercuryquakes’). The planet is very dense (second only to Earth) and partly molten. Its outer shell is thin in comparison to Earth’s (400 km thick) and its surface resembles Earth’s moon, having been marked by impact craters– this erosion being the result of billions of years of collisions with meteoroids and comets.
+
+Certain types of comets influence the lopsided bombardment of Mercury’s surface via tiny dust particles called micrometeoroids. In addition, retrograde meteoroids orbit the Sun in direct opposition to the planets and consist of pieces from disintegrated comets. These retrograde meteoroids are travelling against the flow of planetary traffic in our solar system, so their collisions with Mercury hit much harder than if they were traveling in the same direction.
+
+(Stefana Fratila)
+
+Source and further information: https://solarsystem.nasa.gov/planets/mercury/ 
+
+
+METHODOLOGY
+
+How might embodied subjects perceive sound waves as they travel through the different atmospheres of our solar system? How would the vibrations of Venus feel to a fleshy form? If we were to put our ears to the ground, or lie down our bodies, would we not feel the Mercuryquakes below the surface? And isn’t feeling sound the epitome of experiencing it? These questions constituted my conversations with scientists and researchers at NASA between 2018 and 2019. 
+
+As I began my research, it was immediately apparent that every planet (except for Mercury) is incredibly windy. My mind was racing, imagining the planets as windy tunnels and reverberant rooms: if I could turn the wind off, what would my voice, or my songs, sound like then? To find out, I had to imagine the interplanetary weather patterns and geographical features as music, as if the thunder clouds and volcanoes were musical instruments in and of themselves. Every planet has its own frequency; if we decide that Earth is middle C (261.63 Hertz), each other planet must also have its own pitch based on its own surface pressure, surface temperature, gas components and atmospheric density.
+
+I relied extensively on calculations made by Dr. Conor Nixon (NASA) while conceptualizing the Sononaut plug-ins. I took some necessary artistic liberties through imaginative and conceptual deliberations made within the coding parameters, or ‘character’ of each plug-in. Complete ‘accuracy’ is impossible because of an inherent lack of knowability so, in this sense, artistic interpretation is used to bridge the gap between data and my own imagination. I also assign superhuman qualities to users, meaning that one of my core assumptions is that we can somehow survive these uninhabitable atmospheres. The Sononaut plug-ins allow artists, scientists, researchers, musicians, and composers alike to control and modify effects that simulate what we would hear if we were listening through extraterrestrial atmospheric conditions— bringing us a little closer to ‘stepping into’ these other worlds.
+
+(Stefana Fratila)
+
+
+CREDITS
+
+Author: Stefana Fratila & Jen Kutler 
+Using abstractions by Katja Vetter, Philipp Schmalfuss, Serge Poltavsky and Camomile by Pierre Guillot.
+
+Concept: Stefana Fratila (http://stefanafratila.com)
+Developer: Jen Kutler (http://jenkutler.com) 
+Windows QA and Windows Installer: Tim Light
+Calculations: Dr. Conor A. Nixon (NASA)
+
+– Weather Loops –
+Written and Produced by Stefana Fratila: Stefana Fratila
+Mixing Engineer: Lisa Conway 
+Mastering Engineer: Sage Kim at Lacquer Channel Mastering
+
+
+Special thanks to everyone at NASA, especially: Bruce Banerdt, David Crisp, Lori S. Glaze, Daniel E. Goods, David C. Gruel, Scott D. Guzewich, Joseph R. Harris, Natasha M. Johnson, Conor A. Nixon, Keith S. Noll, Haley P. Reed, Amy A. Simon, Wade E. Sisler, Linda J. Spilker, Tom Spilker, Lina Tran, and Geronimo Luis Villanueva.
+
+Thank you as well to Leif Bloomquist, Eric Choi, Derek Coulombe, Nicolas Cowan, Eric Dahlstrom, Jonathan Scherk, Samuel Dzierzawa, Thomas Weideman, Kerry Maguire, Ash Luk, Lida Pawliuk, Andi G. Petculescu, Sands Fish, Bettina Forget, Bryan Gaensler, Michael Reid, Matt Russo, Andrew Santaguida, and to everyone at Centro Mexicano para la Música y las Artes Sonoras (CMMAS)– especially Francisco Colasanto, Silvana Casal, Silvia de la Cueva Díaz, Daniel López, Tonalli Rufino Nakamura, and Rodrigo Sigal.
+
+Created with the generous support of the Canada Council for the Arts.
