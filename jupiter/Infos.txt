@@ -1,11 +1,64 @@
-Jupiter
-Version: 1.0
-By Stefana Fratila & Jen Kutler
+JUPITER
 
-The following abstraction was used in this patch: vfreeverb by Katja Vetter (katjaas.nl)
 
-Image Source: NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill
+STORY
 
-Image Description: “This stunning image of Jupiter's stormy northern hemisphere was captured by NASA's Juno spacecraft as it performed a close pass of the gas giant planet. Some bright-white clouds can be seen popping up to high altitudes on the right side of Jupiter's disk.”
+As I near Jupiter, I admire its pearls. Everything reminds me of my mother and her hands. I slow down to take in its magnitude. I spot a couple of moons (including Europa), though I know there are dozens more. Once I’ve passed the rings, I jump into my runaboat (the Danube). It’s a kind of helicopter-parachute-rocket hybrid, engineered specifically for spending time on the Gas Giants, since there’s no surface to land on. There is, I suppose, a point where if I kept going further and further down I would eventually burst into flames. They check in on how mentally ill you are before they let you leave Earth. Space is for living. That was the tag-line while I was growing up. The runabout is designed to stop before it gets too dangerous. Anyway, it’s stormy and windy, which makes it difficult to stay in one spot. The cloud bands are like a beautiful tapestry. I can’t find the words for the kinds of pigments I can’t name. The hydrogen ocean lies below, which goes as far as my eyes can see.
 
-https://www.nasa.gov/image-feature/tumultuous-clouds-of-jupiter
+(continued in Saturn)
+
+
+NOTES
+
+As a Gas Giant, Jupiter doesn’t have a ‘true’ surface. The planet is mostly made up of swirling gases and liquids, like hydrogen and helium (a similar composition to the Sun). A spacecraft wouldn’t have anywhere to land, and it wouldn’t be easy to fly through its atmosphere. The extreme pressures and temperatures deep inside Jupiter’s atmosphere might crush, melt and vaporize (currently existing) spacecraft.
+
+Jupiter is the largest planet in the solar system– more than twice the size of all the other planets combined. The planet is very stormy, with winds reaching up to 540 km/hr. It generates even more heat than it receives from the sun, and deep in its atmosphere pressure and temperatures increase, which compresses its gases into liquid. This liquid hydrogen means that Jupiter has the largest ocean in the solar system– albeit it’s not made of water.
+
+Jupiter’s colourful appearance is due to its cloud layers being made up of ammonia ice, ammonium hydrosulfide crystals, and water/ice vapours. Jupiter's quick rotation (one rotation every 10 hours) also causes strong jet streams, separating its clouds into spectacularly bright and dark patterns.
+
+Calculations (by Dr. Conor Nixon) used in the Jupiter plug-in design:
+
+Surface pressure ‘P’ (bar): 1.000
+Surface temperature ’T’ (K): 110
+Gas components: Hydrogen (97%), Helium (3%)
+Mean Molecular Weight (g): 2.06
+Atmospheric Density ‘rho’ (kg/m3): 0.23
+Mean Adiabatic Index (gamma): 1.60
+Speed Sound (m/s): 843
+Speed Sound Relative to Earth = 1: 242.92%
+Pitch shift of middle ‘C’ (Hz): 634
+
+Source and further information: https://solarsystem.nasa.gov/planets/jupiter/ 
+
+
+METHODOLOGY
+
+How might embodied subjects perceive sound waves as they travel through the different atmospheres of our solar system? How would the vibrations of Venus feel to a fleshy form? If we were to put our ears to the ground, or lie down our bodies, would we not feel the Mercuryquakes below the surface? And isn’t feeling sound the epitome of experiencing it? These questions constituted my conversations with scientists and researchers at NASA between 2018 and 2019. 
+
+As I began my research, it was immediately apparent that every planet (except for Mercury) is incredibly windy. My mind was racing, imagining the planets as windy tunnels and reverberant rooms: if I could turn the wind off, what would my voice, or my songs, sound like then? To find out, I had to imagine the interplanetary weather patterns and geographical features as music, as if the thunder clouds and volcanoes were musical instruments in and of themselves. Every planet has its own frequency; if we decide that Earth is middle C (261.63 Hertz), each other planet must also have its own pitch based on its own surface pressure, surface temperature, gas components and atmospheric density.
+
+I relied extensively on calculations made by Dr. Conor Nixon (NASA) while conceptualizing the Sononaut plug-ins. I took some necessary artistic liberties through imaginative and conceptual deliberations made within the coding parameters, or ‘character’ of each plug-in. Complete ‘accuracy’ is impossible because of an inherent lack of knowability so, in this sense, artistic interpretation is used to bridge the gap between data and my own imagination. I also assign superhuman qualities to users, meaning that one of my core assumptions is that we can somehow survive these uninhabitable atmospheres. The Sononaut plug-ins allow artists, scientists, researchers, musicians, and composers alike to control and modify effects that simulate what we would hear if we were listening through extraterrestrial atmospheric conditions— bringing us a little closer to ‘stepping into’ these other worlds.
+
+(Stefana Fratila)
+
+
+CREDITS
+
+Author: Stefana Fratila & Jen Kutler 
+Using abstractions by Katja Vetter, Philipp Schmalfuss, Serge Poltavsky and Camomile by Pierre Guillot.
+
+Concept: Stefana Fratila (http://stefanafratila.com)
+Developer: Jen Kutler (http://jenkutler.com) 
+Windows QA and Windows Installer: Tim Light
+Calculations: Dr. Conor A. Nixon (NASA)
+
+– Weather Loops –
+Written and Produced by Stefana Fratila: Stefana Fratila
+Mixing Engineer: Lisa Conway 
+Mastering Engineer: Sage Kim at Lacquer Channel Mastering
+
+Special thanks to everyone at NASA, especially: Bruce Banerdt, David Crisp, Lori S. Glaze, Daniel E. Goods, David C. Gruel, Scott D. Guzewich, Joseph R. Harris, Natasha M. Johnson, Conor A. Nixon, Keith S. Noll, Haley P. Reed, Amy A. Simon, Wade E. Sisler, Linda J. Spilker, Tom Spilker, Lina Tran, and Geronimo Luis Villanueva.
+
+Thank you as well to Leif Bloomquist, Eric Choi, Derek Coulombe, Nicolas Cowan, Eric Dahlstrom, Jonathan Scherk, Samuel Dzierzawa, Thomas Weideman, Kerry Maguire, Ash Luk, Lida Pawliuk, Andi G. Petculescu, Sands Fish, Bettina Forget, Bryan Gaensler, Michael Reid, Matt Russo, Andrew Santaguida, and to everyone at Centro Mexicano para la Música y las Artes Sonoras (CMMAS)– especially Francisco Colasanto, Silvana Casal, Silvia de la Cueva Díaz, Daniel López, Tonalli Rufino Nakamura, and Rodrigo Sigal.
+
+Created with the generous support of the Canada Council for the Arts.
