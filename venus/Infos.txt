@@ -1,11 +1,66 @@
-Venus
-Version: 1.0
-By Stefana Fratila & Jen Kutler
+VENUS
 
-The following abstractions were used in this patch: vfreeverb by Katja Vetter (katjaas.nl), dkfreqshift Released under gpl v3.0 by Derek Kwan (https://github.com/derekxkwan/pdkvabs), fx.streamstretch by MEGrimm (https://github.com/megrimm/pd-fresh)
 
-Image Source: NASA/Jet Propulsion Laboratory-Caltech
+STORY
 
-Image Description: “This global view of the surface of Venus is centred at 180 degrees east longitude. Magellan synthetic aperture radar mosaics from the first cycle of Magellan mapping are mapped onto a computer-simulated globe to create this image. Data gaps are filled with Pioneer Venus Orbiter data, or a constant mid-range value. Simulated colour is used to enhance small-scale structure. The simulated hues are based on colour images recorded by the Soviet Venera 13 and 14 spacecraft.”
+I drink a litre of Venus Crush, which should keep me going for a few hours once I go down to the surface. It’s 475 degrees Celsius. I remember someone back on Earth told me that’s hot enough to melt lead (“which is, simply put, too fucking hot”). I remind myself of the temperature every time I feel nauseous, swallowing the orange fizzy drink. I’m counting (twenty-nine) to make the sips (thirty) and swallows (thirty-one) go faster. Once I’m down there, I’m in a softer mood, although I definitely feel light-headed from the heat. I spend an hour sitting on the ridge of a volcano listening to the bubbling lava. I hike down thinking about who else might be here today and by the time I get down, a big storm has surrounded me. I start to smell the sulphuric acid clouds (imagine: rotten eggs), which is my cue to step back into my ship because it means the Venus Crush is wearing off.
 
-https://solarsystem.nasa.gov/resources/688/computer-simulated-global-view-of-venus/?category=planets_venus
+(continued in Earth)
+
+
+NOTES
+
+Venus is just slightly smaller than Earth and very similar in terms of its structure. It has a core made of iron, a mantle formed of hot rock, and a surface made up of a thin crust that moves as its mantle shifts beneath. Venus is covered in clouds made up of sulphuric acid clouds. Speeds within these clouds vary widely based on their distance from the surface– ranging from hurricane-force winds of 360 km/hr up high and speeds of only a few km/hr on the surface. Venus’s atmosphere is denser than any other planet in the solar system (nearly 100 times thicker than Earth’s atmosphere at sea-level). The atmosphere is so heavy that it would feel like trying to walk 1.6 km deep underwater.
+
+Venus is just slightly smaller than Earth and very similar in terms of its structure. It has a core made of iron, a mantle formed of hot rock, and a surface made up of a thin crust that moves as its mantle shifts beneath. Venus is covered in clouds made up of sulphuric acid clouds. Speeds within these clouds vary widely based on their distance from the surface– ranging from hurricane-force winds of 360 km/hr up high and speeds of only a few km/hr on the surface. Venus’s atmosphere is denser than any other planet in the solar system (nearly 100 times thicker than Earth’s atmosphere at sea-level). The atmosphere is so heavy it would feel like trying to walk 1.6 km deep underwater. 
+
+Venus’s faster-moving clouds would be lit up by atmospheric lightning bursts, which from the surface might sound like a very faraway thunderstorm. The rocks on Venus are different shades of grey, much like on Earth. However, the thick and heavy atmosphere filters out the sunlight, making everything appear orange. Venus has mountains, valleys and tens of thousands of volcanoes. The planet is a dusty and hazy landscape, with utterly scorching temperatures. It’s 475 degrees Celsius (akin to Hell).
+
+Calculations (by Dr. Conor Nixon) used in the Venus plug-in design:
+
+Surface pressure ‘P’ (bar): 93.000
+Surface temperature ’T’ (K): 737
+Gas components: Carbon dioxide (95.5%), Nitrogen (3.5%)
+Mean Molecular Weight (g): 43.00
+Atmospheric Density ‘rho’ (kg/m3): 65.26
+Mean Adiabatic Index (gamma): 1.29
+Speed Sound (m/s): 429
+Speed Sound Relative to Earth = 1: 123.76%
+Pitch shift of middle ‘C’ (Hz): 323
+
+(Stefana Fratila)
+
+Source and further information: https://solarsystem.nasa.gov/planets/venus/ 
+
+
+METHODOLOGY
+
+How might embodied subjects perceive sound waves as they travel through the different atmospheres of our solar system? How would the vibrations of Venus feel to a fleshy form? If we were to put our ears to the ground, or lie down our bodies, would we not feel the Mercuryquakes below the surface? And isn’t feeling sound the epitome of experiencing it? These questions constituted my conversations with scientists and researchers at NASA between 2018 and 2019. 
+
+As I began my research, it was immediately apparent that every planet (except for Mercury) is incredibly windy. My mind was racing, imagining the planets as windy tunnels and reverberant rooms: if I could turn the wind off, what would my voice, or my songs, sound like then? To find out, I had to imagine the interplanetary weather patterns and geographical features as music, as if the thunder clouds and volcanoes were musical instruments in and of themselves. Every planet has its own frequency; if we decide that Earth is middle C (261.63 Hertz), each other planet must also have its own pitch based on its own surface pressure, surface temperature, gas components and atmospheric density.
+
+I relied extensively on calculations made by Dr. Conor Nixon (NASA) while conceptualizing the Sononaut plug-ins. I took some necessary artistic liberties through imaginative and conceptual deliberations made within the coding parameters, or ‘character’ of each plug-in. Complete ‘accuracy’ is impossible because of an inherent lack of knowability so, in this sense, artistic interpretation is used to bridge the gap between data and my own imagination. I also assign superhuman qualities to users, meaning that one of my core assumptions is that we can somehow survive these uninhabitable atmospheres. The Sononaut plug-ins allow artists, scientists, researchers, musicians, and composers alike to control and modify effects that simulate what we would hear if we were listening through extraterrestrial atmospheric conditions— bringing us a little closer to ‘stepping into’ these other worlds.
+
+(Stefana Fratila)
+
+
+CREDITS
+
+Author: Stefana Fratila & Jen Kutler 
+Using abstractions by Katja Vetter, Philipp Schmalfuss, Serge Poltavsky and Camomile by Pierre Guillot.
+
+Concept: Stefana Fratila (http://stefanafratila.com)
+Developer: Jen Kutler (http://jenkutler.com) 
+Windows QA and Windows Installer: Tim Light
+Calculations: Dr. Conor A. Nixon (NASA)
+
+– Weather Loops –
+Written and Produced by Stefana Fratila: Stefana Fratila
+Mixing Engineer: Lisa Conway 
+Mastering Engineer: Sage Kim at Lacquer Channel Mastering
+
+Special thanks to everyone at NASA, especially: Bruce Banerdt, David Crisp, Lori S. Glaze, Daniel E. Goods, David C. Gruel, Scott D. Guzewich, Joseph R. Harris, Natasha M. Johnson, Conor A. Nixon, Keith S. Noll, Haley P. Reed, Amy A. Simon, Wade E. Sisler, Linda J. Spilker, Tom Spilker, Lina Tran, and Geronimo Luis Villanueva.
+
+Thank you as well to Leif Bloomquist, Eric Choi, Derek Coulombe, Nicolas Cowan, Eric Dahlstrom, Jonathan Scherk, Samuel Dzierzawa, Thomas Weideman, Kerry Maguire, Ash Luk, Lida Pawliuk, Andi G. Petculescu, Sands Fish, Bettina Forget, Bryan Gaensler, Michael Reid, Matt Russo, Andrew Santaguida, and to everyone at Centro Mexicano para la Música y las Artes Sonoras (CMMAS)– especially Francisco Colasanto, Silvana Casal, Silvia de la Cueva Díaz, Daniel López, Tonalli Rufino Nakamura, and Rodrigo Sigal.
+
+Created with the generous support of the Canada Council for the Arts.
